@@ -1,2 +1,2 @@
 # monte-tracker
-A tracker for Windows with high quality sample support.
+A tracker for Windows with high quality sample, plugins, console chips and MIDI support.
